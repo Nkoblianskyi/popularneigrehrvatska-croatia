@@ -97,7 +97,7 @@ export function Footer() {
               className="bg-secondary backdrop-blur-sm p-3 rounded-md hover:bg-secondary/70 transition-all border border-border hover:border-primary flex items-center justify-center group"
             >
               <Image
-                src="/hupis.jpg"
+                src="/hupis.png"
                 alt="HUPIS"
                 width={120}
                 height={60}
@@ -111,7 +111,7 @@ export function Footer() {
               className="bg-secondary backdrop-blur-sm p-3 rounded-md hover:bg-secondary/70 transition-all border border-border hover:border-primary flex items-center justify-center group"
             >
               <Image
-                src="/pbsvi.jpg"
+                src="/pbsvi.svg"
                 alt="PBSVI"
                 width={100}
                 height={40}
@@ -125,7 +125,7 @@ export function Footer() {
               className="bg-secondary backdrop-blur-sm p-3 rounded-md hover:bg-secondary/70 transition-all border border-border hover:border-primary flex items-center justify-center group"
             >
               <Image
-                src="/gamstop.jpg"
+                src="/gamstop.svg"
                 alt="GamStop"
                 width={120}
                 height={60}
@@ -139,7 +139,7 @@ export function Footer() {
               className="bg-secondary backdrop-blur-sm p-3 rounded-md hover:bg-secondary/70 transition-all border border-border hover:border-primary flex items-center justify-center group"
             >
               <Image
-                src="/gamecare-new.jpg"
+                src="/gamecare-new.svg"
                 alt="GamCare"
                 width={120}
                 height={60}
