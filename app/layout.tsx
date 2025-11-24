@@ -17,7 +17,7 @@ const inter = Inter({
 })
 
 export const metadata: Metadata = {
-  title: "Popularne Igre Hrvatska - Najbolji Online Casino u Hrvatskoj 2025",
+  title: "Popularne Igre Hrvatska - Najbolji Casino u Hrvatskoj 2025",
   description:
     "Popularne Igre Hrvatska - Najpouzdaniji vodič za online kazina u Hrvatskoj sa ekskluzivnim bonusima, detaljnim recenzijama i profesionalnim ocjenama za 2025.",
   metadataBase: new URL("https://popularneigrehrvatska.com"),
@@ -29,7 +29,6 @@ export const metadata: Metadata = {
     locale: "hr_HR",
     type: "website",
   },
-    generator: 'v0.app'
 }
 
 export default function RootLayout({
